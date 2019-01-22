@@ -61,4 +61,4 @@ typings/
 .next
 
 # node-red working directory
-.node-red
+#.node-red
