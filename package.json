@@ -4,7 +4,7 @@
   "description": "IoT PoC Gateway",
   "main": "node_modules/node-red/red.js",
   "scripts": {
-    "start": "node node_modules/node-red/red.js --userDir ./.node-red",
+    "start": "node node_modules/node-red/red.js -s settings.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
