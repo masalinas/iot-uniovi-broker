@@ -1,7 +1,7 @@
 {
-  "name": "iot-uniovi-gateway",
+  "name": "iot-uniovi-broker",
   "version": "1.0.0",
-  "description": "IoT PoC Gateway",
+  "description": "IoT PoC Broker",
   "main": "node_modules/node-red/red.js",
   "scripts": {
     "start": "node node_modules/node-red/red.js -s settings.js",

@@ -1,7 +1,7 @@
 # uniovi-iot-api
-IoT Gateway Uniovi PoC
+IoT Broker Uniovi PoC
 
-# Iot Gateway commands
+# Iot Broker commands
 Start command: 
 - ```npm start```
 - ```node . --userDir ./.node-red```
