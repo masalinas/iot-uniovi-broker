@@ -144,7 +144,7 @@
       "rpi-mouse",
       "rpi-keyboard"
      ],
-     "enabled": true,
+     "enabled": false,
      "local": false,
      "module": "node-red",
      "file": "/home/miguel/git/iot-uniovi-broker/node_modules/node-red/nodes/core/hardware/36-rpi-gpio.js"
